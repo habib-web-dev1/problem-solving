@@ -1,6 +1,7 @@
 <div align="center">
 
 # 🧠 Problem Solving Hub
+
 ### Master the Logic | JS • React • Next.js • Node.js • MongoDB
 
 **A dedicated space for documenting my journey through algorithmic challenges, system design patterns, and full-stack problem-solving.**
@@ -20,22 +21,27 @@
 I have categorized my solutions based on the technology and the nature of the problem:
 
 #### 🟡 [JavaScript Fundamentals](./javascript)
-*Data Structures (Arrays, Objects), String Manipulation, Higher-Order Functions, and ES6+ logic.*
+
+_Data Structures (Arrays, Objects), String Manipulation, Higher-Order Functions, and ES6+ logic._
 
 #### 🔵 [React & Next.js Patterns](./frontend)
-*State management, Custom Hooks, Optimistic UI, Server Components vs. Client Components, and Performance Optimization.*
+
+_State management, Custom Hooks, Optimistic UI, Server Components vs. Client Components, and Performance Optimization._
 
 #### 🟢 [Node.js & Express Logic](./backend)
-*Middleware design, Authentication flows (JWT), Error handling patterns, and API Rate Limiting.*
+
+_Middleware design, Authentication flows (JWT), Error handling patterns, and API Rate Limiting._
 
 #### 🍃 [Database & MongoDB](./database)
-*Aggregation pipelines, Schema design, Indexing for performance, and relational NoSQL patterns.*
+
+_Aggregation pipelines, Schema design, Indexing for performance, and relational NoSQL patterns._
 
 ---
 
 ### 🚀 Solving Strategy
 
 For every complex problem solved in this repository, I follow these steps:
+
 1. **Analyze:** Understand the constraints and edge cases.
 2. **Draft:** Write pseudo-code or a logical flow.
 3. **Implement:** Write clean, readable, and optimized code.
@@ -45,22 +51,24 @@ For every complex problem solved in this repository, I follow these steps:
 
 ### 📈 Current Progress
 
-| Category | Problems Solved | Difficulty Levels |
-| :--- | :---: | :--- |
-| **JavaScript** | 10 | Easy, Medium |
-| **Frontend (React/Next)** | 0 | UI Logic, State Management |
-| **Backend (Node/Express)** | 0 | API Design, Security |
-| **Database (MongoDB)** | 0 | Aggregations, Performance |
+| Category                   | Problems Solved | Difficulty Levels          |
+| :------------------------- | :-------------: | :------------------------- |
+| **JavaScript**             |     Running     | Easy, Medium               |
+| **Frontend (React/Next)**  |        0        | UI Logic, State Management |
+| **Backend (Node/Express)** |        0        | API Design, Security       |
+| **Database (MongoDB)**     |        0        | Aggregations, Performance  |
 
 ---
 
-
 ### 📬 Let's Discuss Logic!
+
 If you have a more optimized solution for any of these problems, feel free to open a PR!
 
 **Md Ahsan Habib**
+
 - LinkedIn: [md-ahsan-habib](https://www.linkedin.com/in/ahsan-habib-coder/)
 - Portfolio: [Portfolio](https://ahsan-habib.vercel.app)
 
 ---
+
 <p align="center"><i>"Code is easy. Logic is hard."</i></p>

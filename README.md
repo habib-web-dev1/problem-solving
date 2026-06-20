@@ -1,74 +1,69 @@
 <div align="center">
 
-# 🧠 Problem Solving Hub
+# 🧠 Problem Solving — JavaScript
 
-### Master the Logic | JS • React • Next.js • Node.js • MongoDB
-
-**A dedicated space for documenting my journey through algorithmic challenges, system design patterns, and full-stack problem-solving.**
+### Sharpening logic, one problem at a time.
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Focus-Algorithms%20%26%20Logic-blue?style=for-the-badge" />
 
 </div>
 
 ---
 
-### 📂 Repository Structure
+## 👨‍💻 About This Repository
 
-I have categorized my solutions based on the technology and the nature of the problem:
+This is my dedicated space for consistent problem-solving practice in **JavaScript**. Every solution here reflects my approach to writing clean, readable, and efficient code — from basic string manipulation to array algorithms and classic interview challenges.
 
-#### 🟡 [JavaScript Fundamentals](./javascript)
+Rather than just solving problems, I focus on:
 
-_Data Structures (Arrays, Objects), String Manipulation, Higher-Order Functions, and ES6+ logic._
+- **Understanding the logic** before writing a single line of code
+- **Writing readable solutions** that others can follow
+- **Revisiting and refactoring** for better time & space complexity
 
-#### 🔵 [React & Next.js Patterns](./frontend)
-
-_State management, Custom Hooks, Optimistic UI, Server Components vs. Client Components, and Performance Optimization._
-
-#### 🟢 [Node.js & Express Logic](./backend)
-
-_Middleware design, Authentication flows (JWT), Error handling patterns, and API Rate Limiting._
-
-#### 🍃 [Database & MongoDB](./database)
-
-_Aggregation pipelines, Schema design, Indexing for performance, and relational NoSQL patterns._
+This repo grows daily as I push myself to solve new problems and sharpen my fundamentals.
 
 ---
 
-### 🚀 Solving Strategy
+## 📂 Structure
 
-For every complex problem solved in this repository, I follow these steps:
-
-1. **Analyze:** Understand the constraints and edge cases.
-2. **Draft:** Write pseudo-code or a logical flow.
-3. **Implement:** Write clean, readable, and optimized code.
-4. **Refactor:** Improve time/space complexity or code readability.
-
----
-
-### 📈 Current Progress
-
-| Category                   | Problems Solved | Difficulty Levels          |
-| :------------------------- | :-------------: | :------------------------- |
-| **JavaScript**             |     Running     | Easy, Medium               |
-| **Frontend (React/Next)**  |        0        | UI Logic, State Management |
-| **Backend (Node/Express)** |        0        | API Design, Security       |
-| **Database (MongoDB)**     |        0        | Aggregations, Performance  |
+```
+📦 Problem Solving
+ ┣ 📁 Day 1/          → Daily timed challenges
+ ┣ 📄 Javascript.js   → Core JS problems (strings, arrays, loops)
+ ┗ 📄 Interview.js    → Real-world interview-style questions
+```
 
 ---
 
-### 📬 Let's Discuss Logic!
+## 🛠️ Topics Covered
 
-If you have a more optimized solution for any of these problems, feel free to open a PR!
-
-**Md Ahsan Habib**
-
-- LinkedIn: [md-ahsan-habib](https://www.linkedin.com/in/ahsan-habib-coder/)
-- Portfolio: [Portfolio](https://ahsan-habib.vercel.app)
+| Topic                   | Examples                                           |
+| :---------------------- | :------------------------------------------------- |
+| **String Manipulation** | Reverse string, palindrome check, capitalize words |
+| **Array Operations**    | Find max/min, remove duplicates, filter evens      |
+| **Loop & Control Flow** | Factorial, FizzBuzz-style challenges               |
+| **Interview Prep**      | Practical coding questions from real interviews    |
 
 ---
 
-<p align="center"><i>"Code is easy. Logic is hard."</i></p>
+## 🚀 My Solving Approach
+
+1. **Read** — Understand the problem and its edge cases
+2. **Plan** — Think through the logic before coding
+3. **Code** — Write a clean, working solution
+4. **Optimize** — Improve performance or readability where possible
+
+---
+
+## 📬 Connect With Me
+
+**Md Ahsan Habib** — Full Stack Developer
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahsan-habib-coder/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ahsan-habib.vercel.app)
+
+---
+
+<p align="center"><i>"The best code is not the cleverest — it's the clearest."</i></p>

@@ -18,5 +18,5 @@ function findMinTimesChr(str) {
   }
   return minTimesChr;
 }
-let str = "swwiiss";
+let str = "swiss";
 console.log(findMinTimesChr(str));

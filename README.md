@@ -1,69 +1,125 @@
 <div align="center">
 
-# 🧠 Problem Solving — JavaScript
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F7DF1E&height=120&section=header&fontColor=000000" width="100%"/>
 
-### Sharpening logic, one problem at a time.
+<h1>🧠 JavaScript Problem Solving</h1>
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Focus-Algorithms%20%26%20Logic-blue?style=for-the-badge" />
+<p><strong>Consistent practice. Clean logic. Real results.</strong></p>
+
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Focus-Algorithms%20%26%20Logic-1e1e2e?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Active%20Daily-brightgreen?style=for-the-badge" />
+</p>
+
+<p><i>A living repository documenting my problem-solving journey — built for growth, readable for anyone.</i></p>
 
 </div>
 
 ---
 
-## 👨‍💻 About This Repository
+## ✦ About
 
-This is my dedicated space for consistent problem-solving practice in **JavaScript**. Every solution here reflects my approach to writing clean, readable, and efficient code — from basic string manipulation to array algorithms and classic interview challenges.
+This repository is my dedicated practice ground for **JavaScript problem solving**. Each file represents a real attempt to think algorithmically, write clean solutions, and understand the _why_ behind the code — not just the _what_.
 
-Rather than just solving problems, I focus on:
-
-- **Understanding the logic** before writing a single line of code
-- **Writing readable solutions** that others can follow
-- **Revisiting and refactoring** for better time & space complexity
-
-This repo grows daily as I push myself to solve new problems and sharpen my fundamentals.
+The goal isn't just to pass interviews. It's to build a developer mindset that writes code others can read, maintain, and trust.
 
 ---
 
-## 📂 Structure
+## 📁 Repository Structure
 
 ```
 📦 Problem Solving
- ┣ 📁 Day 1/          → Daily timed challenges
- ┣ 📄 Javascript.js   → Core JS problems (strings, arrays, loops)
- ┗ 📄 Interview.js    → Real-world interview-style questions
+ ┣ 📁 Day 1/
+ ┃  ┣ 📄 Find Maximum Number in Array.js
+ ┃  ┣ 📄 Find Minimum Number in Array.js
+ ┃  └ 📄 Reverse a String.js
+ ┣ 📄 Javascript.js     →  Core fundamentals & classic challenges
+ ┣ 📄 Interview.js      →  Real-world interview questions
+ └ 📄 README.md
 ```
 
 ---
 
-## 🛠️ Topics Covered
+## 🗂️ Topics Covered
 
-| Topic                   | Examples                                           |
-| :---------------------- | :------------------------------------------------- |
-| **String Manipulation** | Reverse string, palindrome check, capitalize words |
-| **Array Operations**    | Find max/min, remove duplicates, filter evens      |
-| **Loop & Control Flow** | Factorial, FizzBuzz-style challenges               |
-| **Interview Prep**      | Practical coding questions from real interviews    |
+<table>
+  <thead>
+    <tr>
+      <th>Category</th>
+      <th>What's Inside</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>🔤 <strong>String Manipulation</strong></td>
+      <td>Reverse, palindrome check, capitalize words, vowel count</td>
+    </tr>
+    <tr>
+      <td>📊 <strong>Array Operations</strong></td>
+      <td>Find max/min, remove duplicates, filter by condition, sum</td>
+    </tr>
+    <tr>
+      <td>🔁 <strong>Loops & Control Flow</strong></td>
+      <td>Factorial, FizzBuzz-style logic, iteration patterns</td>
+    </tr>
+    <tr>
+      <td>💼 <strong>Interview Prep</strong></td>
+      <td>Practical questions sourced from real interviews</td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
-## 🚀 My Solving Approach
+## ⚙️ My Approach
 
-1. **Read** — Understand the problem and its edge cases
-2. **Plan** — Think through the logic before coding
-3. **Code** — Write a clean, working solution
-4. **Optimize** — Improve performance or readability where possible
+Every problem gets the same treatment:
 
----
+```
+1. Understand  →  Break down the problem, identify edge cases
+2. Plan        →  Sketch the logic before writing code
+3. Implement   →  Write a clean, working solution
+4. Optimize    →  Revisit for better complexity or clarity
+```
 
-## 📬 Connect With Me
-
-**Md Ahsan Habib** — Full Stack Developer
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahsan-habib-coder/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ahsan-habib.vercel.app)
+No shortcuts. No copy-paste. Every solution is written from scratch.
 
 ---
 
-<p align="center"><i>"The best code is not the cleverest — it's the clearest."</i></p>
+## 📈 Progress
+
+| Category                | Status         |
+| :---------------------- | :------------- |
+| JavaScript Fundamentals | 🟢 Active      |
+| Daily Challenges        | 🟢 Active      |
+| Interview Questions     | 🟡 In Progress |
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+**Md Ahsan Habib** &nbsp;·&nbsp; Full Stack Developer
+
+<p>
+  <a href="https://www.linkedin.com/in/ahsan-habib-coder/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://ahsan-habib.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+_Open to discussions, feedback, and better solutions — feel free to open a PR or reach out._
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F7DF1E&height=80&section=footer" width="100%"/>
+  <sub><i>"First, solve the problem. Then, write the code." — John Johnson</i></sub>
+</div>

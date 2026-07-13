@@ -10,5 +10,5 @@ function countCharacter(str) {
   }
   return frequencyMap;
 }
-let str = "bananan";
+let str = "banana";
 console.log(countCharacter(str));

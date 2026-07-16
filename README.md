@@ -35,7 +35,6 @@ The goal isn't just to pass interviews. It's to build a developer mindset that w
  ┃  ┣ 📄 Find Minimum Number in Array.js
  ┃  └ 📄 Reverse a String.js
  ┣ 📄 Javascript.js     →  Core fundamentals & classic challenges
- ┣ 📄 Interview.js      →  Real-world interview questions
  └ 📄 README.md
 ```
 

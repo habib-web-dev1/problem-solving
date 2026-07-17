@@ -29,3 +29,19 @@ function groupAnagrams(wordsArray) {
 
 let words = ["eat", "tea", "tan", "ate", "nat", "bat"];
 console.log(groupAnagrams(words));
+
+function groupAnagrams(words) {
+  const groupMap = {};
+
+  for (let i = 0; i < words.length; i++) {
+    const key = words[i].split("").sort().join("");
+
+    if (groupMap[key] !== undefined) {
+      groupMap[key].push(words[i]);
+    } else {
+      groupMap[key] = [words[i]];
+    }
+  }
+
+  return Object.values(groupMap);
+}

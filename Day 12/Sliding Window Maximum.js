@@ -30,4 +30,3 @@ function maxSlidingWindow(nums, k) {
 }
 
 console.log(maxSlidingWindow([1, 3, -1, -3, 5, 3, 6, 7, 8], 3));
-console.log(maxSlidingWindow([1, 2], 1));
